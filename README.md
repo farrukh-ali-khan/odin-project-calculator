@@ -1,10 +1,12 @@
 # Odin Project Calculator
 
-This project is a **JavaScript-powered calculator** that allows users to perform basic mathematical operations like addition, subtraction, multiplication, and division. It also includes extra features such as decimal input, backspace functionality, and keyboard support.
-
 ## Project Overview
 
 This calculator is built using **HTML**, **CSS**, and **JavaScript**, and is fully responsive and SEO-friendly. The project was created as part of a **Foundations Course** and demonstrates the practical application of JavaScript concepts, DOM manipulation, and responsive web design.
+
+### Live Demo
+
+You can view the live demo of the calculator here: [Live Demo](https://farrukh-ali-khan.github.io/odin-project-calculator/)
 
 ### Key Features:
 
